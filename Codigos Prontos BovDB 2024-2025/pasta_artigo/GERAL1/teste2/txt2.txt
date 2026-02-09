@@ -1,0 +1,24 @@
+O teste 2 foi realizado com o mesmo dataset do teste 1, 
+
+Na etapa 2 foi colocado o GA com 5 folds ao inves de 9
+
+Na etapa 3 esta igual a etapa 1 do teste anterior com 9 folds tambem e esses parametros de mlp:
+
+MLPClassifier(
+        hidden_layer_sizes=(100,),  
+        early_stopping=False,
+        random_state=42
+    )
+
+Resultados da etapa 3:
+
+Acurácia média no treino (CV): 0.6001
+Acurácia final no conjunto de validação: 0.5455
+
+Matriz de confusão - Treino:
+[[1183 1714]
+ [ 824 2532]]
+
+Matriz de confusão - Validação:
+[[620 468]
+ [431 459]]

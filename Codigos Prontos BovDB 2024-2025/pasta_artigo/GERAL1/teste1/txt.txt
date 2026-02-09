@@ -1,0 +1,22 @@
+o teste foi realizado com esses parametros de mlp tanto na etapa 1 e 3:
+
+MLPClassifier(
+    hidden_layer_sizes=(100,),
+    early_stopping=False,
+    random_state=42
+)
+
+as acuracias que chegaram na etapa 3 foi de:
+
+Acurácia média no treino (CV): 0.5951
+Acurácia final no conjunto de validação: 0.5461
+
+Matriz de confusão - Treino:
+[[1376 1633]
+ [ 982 2439]]
+
+Matriz de confusão - Validação:
+[[747 331]
+ [520 277]]
+
+ A etapa 2 foi feita com o cross validation estratificado de 9 folds

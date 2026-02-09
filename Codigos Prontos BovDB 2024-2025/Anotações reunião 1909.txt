@@ -1,0 +1,19 @@
+Anotações reunião 19/09
+
+ta lib python --> GitHub:   https://github.com/ta-lib/ta-lib-python 
+
+ADXR ou ADX colocar
+
+EMA 3,5,7,9,11  colocar
+
+STDDEV 3,5,7,9,11 colocar
+
+A/D colocar
+
+SMA, Bandas de Bollinger já temos
+
+normalizar os dados próximo ao 0 e 1 --> ver criteria provavelmente o preço de fechamento
+
+Focar em indicadores técnicos
+
+depois MLP
