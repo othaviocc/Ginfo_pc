@@ -1,0 +1,47 @@
+MELHORES PARÂMETROS: [582.0915848827326, 6.632336042016705, 0.026903710794654048, 0.825425047380984, 2.2866039523071953, 41.933170455441015]
+COM 8 FEATURES
+
+ACURÁCIA DE TREINO: 0.6875
+Matriz de Confusão (Treino):
+[[3263 1433]
+ [1433 3042]]
+
+ACURÁCIA DE TESTE: 0.6311
+Matriz de Confusão (Teste):
+[[2714 1544]
+ [1520 2528]]
+
+Relatório Final (Teste):
+              precision    recall  f1-score   support
+
+           0       0.64      0.64      0.64      4258
+           1       0.62      0.62      0.62      4048
+
+    accuracy                           0.63      8306
+   macro avg       0.63      0.63      0.63      8306
+weighted avg       0.63      0.63      0.63      8306
+
+
+ ==================================================
+MELHORES PARÂMETROS: [636.7255989284238, 10.403468058340218, 0.02067749565639159, 0.8279912368823906, 3.3907798339914943, 14.79571219807434]
+COM 18 FEATURES
+
+ACURÁCIA DE TREINO: 0.7203
+Matriz de Confusão (Treino):
+[[3440 1256]
+ [1309 3166]]
+
+ACURÁCIA DE TESTE: 0.6299
+Matriz de Confusão (Teste):
+[[2731 1527]
+ [1547 2501]]
+
+Relatório Final (Teste):
+              precision    recall  f1-score   support
+
+           0       0.64      0.64      0.64      4258
+           1       0.62      0.62      0.62      4048
+
+    accuracy                           0.63      8306
+   macro avg       0.63      0.63      0.63      8306
+weighted avg       0.63      0.63      0.63      8306
